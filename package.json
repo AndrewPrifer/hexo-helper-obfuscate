@@ -1,7 +1,7 @@
 {
   "name": "hexo-helper-obfuscate",
   "version": "1.0.0",
-  "description": "Hexo helper for obfuscating strings to html entities using munge. Handy against crawlers.",
+  "description": "Hexo helper plugin for obfuscating strings such as email addresses. Handy against web-crawlers.",
   "main": "index.js",
   "repository": {
     "type": "git",
