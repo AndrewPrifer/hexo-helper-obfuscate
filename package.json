@@ -1,0 +1,18 @@
+{
+  "name": "hexo-helper-obfuscate",
+  "version": "1.0.0",
+  "description": "Hexo helper for obfuscating strings to html entities using munge. Handy against crawlers.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/andrewpeterprifer/hexo-helper-obfuscate"
+  },
+  "keywords": [
+    "hexo",
+    "obfuscate"
+  ],
+  "author": "Andrew Prifer <hi@andrewpeterprifer.me>",
+  "dependencies": {
+    "munge": "^0.1.4"
+  }
+}
